@@ -1,0 +1,9 @@
+pandas
+numpy
+python-dotenv
+openai
+langchain
+pypdf 
+# --chromadb
+pinecone-client
+tiktoken
